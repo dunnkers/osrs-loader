@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.dunnkers.dunkbot.load.DunkBot
+Created-By: 1.7.0_07 (Oracle Corporation)
+Built-By: Dunnkers
+Bundle-Name: OSRS-Loader
+Bundle-Vendor: Dunnkers Habinio
+Bundle-Version: 0.01
+Bundle-Description: Loads Old-School RuneScape.
+Bundle-SymbolicName: com.dunnkers
